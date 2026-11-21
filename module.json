@@ -3,7 +3,7 @@
   "name": "real-estate-sales-progression-livewire",
   "display_name": "Real Estate Sales Progression Livewire",
   "description": "Livewire list component for team-scoped sales progression.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "category": "presentation",
   "provider": "Liberu\\RealEstate\\SalesProgressionLivewire\\SalesProgressionLivewireServiceProvider",
   "requires": {
